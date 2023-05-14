@@ -8,11 +8,11 @@
 
 ### 模型索引
 
-|   索引   |                             链接                             |
-| :------: | :----------------------------------------------------------: |
-| DDSP-SVC | [点我访问 DDSP-SVC 模型索引](./DDSP-SVC/README.md) |
-|          |                                                              |
-|          |                                                              |
-|          |                                                              |
-|          |                                                              |
+|    索引    |                          链接                          |
+| :--------: | :----------------------------------------------------: |
+|  DDSP-SVC  |   [点我访问 DDSP-SVC 模型索引](./DDSP-SVC/README.md)   |
+| DiffSinger | [点我访问 DiffSinger 模型索引](./DiffSinger/README.md) |
+|  Fish SVC  |   [点我访问 Fish SVC 模型索引](./Fish-SVC/README.md)   |
+|    RVC     |        [点我访问 RVC 模型索引](./RVC/README.md)        |
+|    Vits    |       [点我访问 Vits 模型索引](./Vits/README.md)       |
 
