@@ -10,7 +10,7 @@
 
 |   索引   |                             链接                             |
 | :------: | :----------------------------------------------------------: |
-| DDSP-SVC | [传送门](https://github.com/AI-Hobbyist/Models/blob/main/DDSP-SVC/README.md) |
+| DDSP-SVC | [点我访问 DDSP-SVC 模型索引](./DDSP-SVC/README.md) |
 |          |                                                              |
 |          |                                                              |
 |          |                                                              |
