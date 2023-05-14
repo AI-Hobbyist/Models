@@ -1,3 +1,3 @@
-# DiffSinger Models {ignore=true}
+# DiffSinger Models
 
-[TOC]
+[toc]
