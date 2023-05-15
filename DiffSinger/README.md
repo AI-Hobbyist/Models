@@ -83,11 +83,11 @@
 |  九条裟罗  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 |   久岐忍   |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 |  雷电将军  | [点我下载](https://www.ai-lab.top/thread-31-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B-01.wav" ></audio> | -2 key |
-| 珊瑚宫心海 |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
-|    早柚    |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+| 珊瑚宫心海 | [点我下载](https://www.ai-lab.top/thread-44-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E7%8F%8A%E7%91%9A%E5%AE%AB%E5%BF%83%E6%B5%B7-01.wav" ></audio> | -1 key |
+|    早柚    | [点我下载](https://www.ai-lab.top/thread-45-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E6%97%A9%E6%9F%9A-01.wav" ></audio> |   0    |
 | 鹿野院平藏 |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 |    托马    |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
-|  八重神子  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|  八重神子  | [点我下载](https://www.ai-lab.top/thread-33-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90-01.wav" ></audio> |   0    |
 |    宵宫    |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 
 
