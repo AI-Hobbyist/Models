@@ -94,21 +94,21 @@
 
 #### 须弥
 
-|   角色   | 模型下载 |                   试听                    | 变调 |
-| :------: | :------: | :---------------------------------------: | :--: |
-| 艾尔海森 |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  坎蒂丝  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   柯莱   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   赛诺   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  迪希雅  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   多莉   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  珐露珊  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   卡维   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  莱依拉  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  纳西妲  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   妮露   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  提纳里  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  流浪者  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
+|   角色   |                       模型下载                        |                             试听                             | 变调 |
+| :------: | :---------------------------------------------------: | :----------------------------------------------------------: | :--: |
+| 艾尔海森 |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  坎蒂丝  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   柯莱   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   赛诺   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  迪希雅  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   多莉   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  珐露珊  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   卡维   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  莱依拉  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  纳西妲  | [点我下载](https://www.ai-lab.top/thread-32-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E7%BA%B3%E8%A5%BF%E5%A6%B2-01.wav" ></audio> |  0   |
+|   妮露   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  提纳里  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  流浪者  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
 
 #### 降临者&NPC
 
