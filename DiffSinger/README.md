@@ -73,22 +73,22 @@
 
 #### 稻妻
 
-|    角色    | 模型下载 |                   试听                    | 变调 |
-| :--------: | :------: | :---------------------------------------: | :--: |
-|  荒泷一斗  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|    五郎    |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  枫原万叶  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  神里绫华  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  神里绫人  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  九条裟罗  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   久岐忍   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  雷电将军  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-| 珊瑚宫心海 |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|    早柚    |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-| 鹿野院平藏 |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|    托马    |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  八重神子  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|    宵宫    |  待更新  | <audio controls><source src="#" ></audio> |  0   |
+|    角色    |                       模型下载                        |                             试听                             |  变调  |
+| :--------: | :---------------------------------------------------: | :----------------------------------------------------------: | :----: |
+|  荒泷一斗  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|    五郎    |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|  枫原万叶  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|  神里绫华  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|  神里绫人  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|  九条裟罗  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|   久岐忍   |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|  雷电将军  | [点我下载](https://www.ai-lab.top/thread-31-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B-01.wav" ></audio> | -2 key |
+| 珊瑚宫心海 |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|    早柚    |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+| 鹿野院平藏 |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|    托马    |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|  八重神子  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|    宵宫    |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 
 
 
