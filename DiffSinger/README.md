@@ -25,51 +25,51 @@
 
 #### 蒙德
 
-|   角色   | 模型下载 |                   试听                    | 变调 |
-| :------: | :------: | :---------------------------------------: | :--: |
-|  阿贝多  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   安柏   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  芭芭拉  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  班尼特  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  迪卢克  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  迪奥娜  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   优菈   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  菲谢尔  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|    琴    |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   凯亚   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   可莉   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   丽莎   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   米卡   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   莫娜   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  诺艾尔  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   雷泽   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-| 罗莎莉亚 |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   砂糖   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   温迪   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
+|   角色   |                       模型下载                        |                             试听                             | 变调 |
+| :------: | :---------------------------------------------------: | :----------------------------------------------------------: | :--: |
+|  阿贝多  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   安柏   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  芭芭拉  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  班尼特  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  迪卢克  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  迪奥娜  | [点我下载](https://www.ai-lab.top/thread-53-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E8%BF%AA%E5%A5%A5%E5%A8%9C-01.wav" ></audio> |  0   |
+|   优菈   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  菲谢尔  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|    琴    | [点我下载](https://www.ai-lab.top/thread-65-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E7%90%B4-01.wav" ></audio> |  0   |
+|   凯亚   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   可莉   | [点我下载](https://www.ai-lab.top/thread-64-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E5%8F%AF%E8%8E%89-01.wav" ></audio> |  0   |
+|   丽莎   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   米卡   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   莫娜   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  诺艾尔  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   雷泽   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+| 罗莎莉亚 |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   砂糖   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   温迪   | [点我下载](https://www.ai-lab.top/thread-57-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E6%B8%A9%E8%BF%AA-01.wav" ></audio> |  0   |
 
 #### 璃月
 
-|   角色   | 模型下载 |                   试听                    | 变调 |
-| :------: | :------: | :---------------------------------------: | :--: |
-|   白术   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   北斗   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   重云   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   甘雨   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   胡桃   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   刻晴   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   凝光   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   七七   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   申鹤   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   香菱   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|    魈    |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   行秋   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   辛焱   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   烟绯   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   瑶瑶   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   夜兰   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   云堇   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|   钟离   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-| 达达利亚 |  待更新  | <audio controls><source src="#" ></audio> |  0   |
+|   角色   |                       模型下载                        |                             试听                             | 变调 |
+| :------: | :---------------------------------------------------: | :----------------------------------------------------------: | :--: |
+|   白术   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   北斗   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   重云   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   甘雨   | [点我下载](https://www.ai-lab.top/thread-68-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E7%94%98%E9%9B%A8-01.wav" ></audio> |  0   |
+|   胡桃   | [点我下载](https://www.ai-lab.top/thread-50-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E8%83%A1%E6%A1%83-01.wav" ></audio> |  0   |
+|   刻晴   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   凝光   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   七七   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   申鹤   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   香菱   | [点我下载](https://www.ai-lab.top/thread-51-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E9%A6%99%E8%8F%B1-01.wav" ></audio> |  0   |
+|    魈    |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   行秋   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   辛焱   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   烟绯   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   瑶瑶   | [点我下载](https://www.ai-lab.top/thread-30-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E7%91%B6%E7%91%B6-01.wav" ></audio> |  0   |
+|   夜兰   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   云堇   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   钟离   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+| 达达利亚 |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
 
 #### 稻妻
 
@@ -78,7 +78,7 @@
 |  荒泷一斗  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 |    五郎    |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 |  枫原万叶  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
-|  神里绫华  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
+|  神里绫华  | [点我下载](https://www.ai-lab.top/thread-69-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E7%A5%9E%E9%87%8C%E7%BB%AB%E5%8D%8E-01.wav" ></audio> |   0    |
 |  神里绫人  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 |  九条裟罗  |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
 |   久岐忍   |                        待更新                         |          <audio controls><source src="#" ></audio>           |   0    |
@@ -101,12 +101,12 @@
 |   柯莱   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
 |   赛诺   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
 |  迪希雅  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
-|   多莉   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   多莉   | [点我下载](https://www.ai-lab.top/thread-54-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E5%A4%9A%E8%8E%89-01.wav" ></audio> |  0   |
 |  珐露珊  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
 |   卡维   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
-|  莱依拉  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|  莱依拉  | [点我下载](https://www.ai-lab.top/thread-66-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E8%8E%B1%E4%BE%9D%E6%8B%89-01.wav" ></audio> |  0   |
 |  纳西妲  | [点我下载](https://www.ai-lab.top/thread-32-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E7%BA%B3%E8%A5%BF%E5%A6%B2-01.wav" ></audio> |  0   |
-|   妮露   |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
+|   妮露   | [点我下载](https://www.ai-lab.top/thread-56-1-1.html) | <audio controls><source src="https://fj.ai-lab.top/DiffSinger/%E5%A6%AE%E9%9C%B2-01.wav" ></audio> |  0   |
 |  提纳里  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
 |  流浪者  |                        待更新                         |          <audio controls><source src="#" ></audio>           |  0   |
 
