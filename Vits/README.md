@@ -149,7 +149,7 @@
 |  姬子  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
 | 瓦尔特 |  待更新  | <audio controls><source src="#" ></audio> |  0   |
 |  丹桓  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-| 三月七 |  待更新  | <audio controls><source src="#" ></audio> |  0   |
+| 三月七 |  [GitHub](https://github.com/AI-Hobbyist/Models/releases/tag/VITS_Mar7th)  | <audio controls><source src="#" ></audio> |  0   |
 
 #### 空间站「黑塔」
 
@@ -166,7 +166,7 @@
 |  杰帕德  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
 | 布洛妮娅 |  待更新  | <audio controls><source src="#" ></audio> |  0   |
 |   希儿   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
-|  克拉拉  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
+|  克拉拉  |  [GitHub](https://github.com/AI-Hobbyist/Models/releases/tag/VITS_Clara)  | <audio controls><source src="#" ></audio> |  0   |
 |   桑博   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
 |   佩拉   |  待更新  | <audio controls><source src="#" ></audio> |  0   |
 |  希露瓦  |  待更新  | <audio controls><source src="#" ></audio> |  0   |
